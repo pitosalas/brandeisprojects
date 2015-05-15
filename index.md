@@ -9,18 +9,62 @@ This is a collection of student project "portfolio pages". At the end of each me
 <table id="projects" class="display">
     <thead>
         <tr>
-            <th>Column 1</th>
-            <th>Column 2</th>
+            <th>Name</th>
+            <th>Summary</th>
+            <th>Portfolio Page</th>
+            <th>Course</th>
+            <th>Date</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Row 1 Data 1</td>
-            <td>Row 1 Data 2</td>
+            <td>Surveyor</th>
+            <td>Surveyor is the best way to conduct Market Research on Millennials</th>
+            <td>Portfolio Page</td>
+            <td>CS166b</td>
+            <td>Spring 2015</td>
         </tr>
         <tr>
-            <td>Row 2 Data 1</td>
-            <td>Row 2 Data 2</td>
+            <td>MarginCall</th>
+            <td>Keep your investments in check, with market alerts from MarginCall</th>
+            <td>Portfolio Page</td>
+            <td>CS166b</td>
+            <td>Spring 2015</td>
+        </tr>
+        <tr>
+            <td>BarterMe</th>
+            <td>One man's trash is another man's treasure.  BarterMe:  Person to person trading made simple</th>
+            <td>Portfolio Page</td>
+            <td>CS166b</td>
+            <td>Spring 2015</td>
+        </tr>
+        <tr>
+            <td>Epsilon</th>
+            <td>Finally automate the collection of DJ playlists and reporting for </th>
+            <td>Portfolio Page</td>
+            <td>CS166b</td>
+            <td>Spring 2015</td>
+        </tr>
+        <tr>
+            <td>Carpe Diem</th>
+            <td>Ad-hoc activities, spotting events of interest happening in your community! "Ever wondered where to get free food in Brandeis campus right now?"</th>
+            <td>Portfolio Page</td>
+            <td>CS166b</td>
+            <td>Spring 2015</td>
+        </tr>
+        <tr>
+            <td>Campus GPS</th>
+            <td>Visitors avoid getting lost when trying to find Feldberg 131 or Gzag 124</th>
+            <td>Portfolio Page</td>
+            <td>CS166b</td>
+            <td>Spring 2015</td>
+        </tr>
+        <tr>
+            <td>Market Watch</th>
+            <td>What’s happening in the financial markets?</th>
+            <td>Portfolio Page</td>
+            <td>CS166b</td>
+            <td>Spring 2015</td>
         </tr>
     </tbody>
 </table>
