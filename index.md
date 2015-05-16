@@ -28,7 +28,7 @@ This is a collection of student project "portfolio pages". At the end of each me
             <td> <a href="{{ post.presentation }}">prezo</a>
             <td> {{ post.course }} </td>
             <td> {{ post.semester}} </td>
-        </tr>portfolio
+        </tr>
       {% endfor %}
     </tbody>
 </table>
