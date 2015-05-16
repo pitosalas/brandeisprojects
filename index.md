@@ -23,12 +23,12 @@ This is a collection of student project "portfolio pages". At the end of each me
         <tr>
             <td> {{ post.name }} </th>
             <td> {{ post.blurb }} </td>
-            <td> <a href="{{ post.porfolio }}">portfolio</a>
+            <td> <a href="{{ post.portfolio }}">portfolio</a>
             <td> <a href="{{ post.github }}">github</a>
             <td> <a href="{{ post.presentation }}">prezo</a>
             <td> {{ post.course }} </td>
             <td> {{ post.semester}} </td>
-        </tr>
+        </tr>portfolio
       {% endfor %}
     </tbody>
 </table>
