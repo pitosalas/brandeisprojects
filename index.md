@@ -8,7 +8,7 @@ This is a collection of student project "portfolio pages". At the end of each me
 <ul>
   {{% for post in site.posts %}}
     <li>
-    {{ post.name}} | {{ post.course }}
+    <a href="#">{{ post.name }}</a>
     </li>
   {{% endfor %}}
 </ul>
