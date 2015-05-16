@@ -5,4 +5,5 @@ course: All upper case, e.g. CS105B
 semester: e.g. Spring 2015
 github: url to your github repo
 portfolio: url to your portfolio page
+presentation: #
 ---
