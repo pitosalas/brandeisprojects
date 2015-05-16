@@ -1,9 +1,8 @@
 ---
-name: CampusGps
-blurb: The best bartering app ever
+name: Campus Gps
+blurb: Visitors avoid getting lost when trying to find Feldberg 131 or Gzag 124
 course: CS166b
-semester: spring 2015
+semester: Spring 2015
 github: xxxx
 portfolio: yyy
 ---
-sadkjashdkashdjkas
