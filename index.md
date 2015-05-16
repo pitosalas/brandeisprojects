@@ -13,7 +13,7 @@ This is a collection of student project "portfolio pages". At the end of each me
             <th>Summary</th>
             <th>Portfolio Page</th>
             <th>Github</th>
-            <th>Presentation<th>
+            <th>Presentation</th>
             <th>Course</th>
             <th>Date</th>
         </tr>
