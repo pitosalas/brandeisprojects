@@ -21,7 +21,7 @@ This is a collection of student project "portfolio pages". At the end of each me
     <tbody>
       {% for post in site.posts %}
         <tr>
-            <td> {{ post.name }} </th>
+            <td> {{ post.name }} </td>
             <td> {{ post.blurb }} </td>
             <td> <a href="{{ post.portfolio }}">portfolio</a> </td>
             <td> <a href="{{ post.github }}">github</a>  </td>
