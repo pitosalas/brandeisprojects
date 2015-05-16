@@ -1,8 +1,8 @@
 ---
-name: Your product's name
+name: Your product's name!
 blurb: 140 character summary
 course: All upper case, e.g. CS105B
 semester: e.g. Spring 2015
 github: url to your github repo
-portfolio: url to your portfolio page!!
+portfolio: url to your portfolio page
 ---
