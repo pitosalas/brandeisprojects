@@ -13,6 +13,7 @@ This is a collection of student project "portfolio pages". At the end of each me
             <th>Summary</th>
             <th>Portfolio Page</th>
             <th>Github</th>
+            <th>Presentation<th>
             <th>Course</th>
             <th>Date</th>
         </tr>
@@ -24,6 +25,8 @@ This is a collection of student project "portfolio pages". At the end of each me
             <td> {{ post.blurb }} </td>
             <td> <a href="{{ post.porfolio }}">portfolio</a>
             <td> <a href="{{ post.github }}">github</a>
+            <td> <a href="{{ post.github }}">github</a>
+            <td> <a href="{{ post.presentation }}">prezo</a>
             <td> {{ post.course }} </td>
             <td> {{ post.semester}} </td>
         </tr>
