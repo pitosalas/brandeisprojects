@@ -3,6 +3,6 @@ name: Margin Call
 blurb: Keep your investments in check, with market alerts from MarginCall
 course: CS105B
 semester: Spring 2015
-github: url to your github repo
-portfolio: url to your portfolio page
+github: https://github.com/cannahum/MarginCall
+portfolio: https://sites.google.com/a/brandeis.edu/margincall/
 ---
