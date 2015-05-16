@@ -1,7 +1,7 @@
 ---
 name: Carpe Diem
 blurb: Ad-hoc activities, spotting events of interest happening in your community! "Ever wondered where to get free food in Brandeis campus right now?""
-course: CS105B
+course: CS166B
 semester: Spring 2015
 github: http://github.com/stevekaplan123/carpe_diem
 portfolio: https://sites.google.com/a/brandeis.edu/166b_carpediem/
