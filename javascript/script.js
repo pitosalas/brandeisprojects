@@ -1,8 +1,8 @@
 $(document).ready(function() {
     $('#projects').dataTable( {
         "paging":   false,
-        "columns": [
-          { "width": "10%" },
-          { "width": "40%" } ]
+        "columnDefs": [
+          { "width": "50%", "targets": 1 }
+          ]
     } );
 } );
