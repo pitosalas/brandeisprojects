@@ -3,6 +3,6 @@ $(document).ready(function() {
         "paging":   false,
         "columns": [
           { "width": "10%" },
-          { "width": "25%" } ]
+          { "width": "40%" } ]
     } );
 } );
