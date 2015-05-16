@@ -1,5 +1,5 @@
 ---
-name: nanoTwitter Blue Jade
+name: nanoTwitter
 blurb: Team implementation of the nanoTwitter service
 course: CS105B
 semester: Spring 2015
