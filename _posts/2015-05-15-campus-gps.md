@@ -5,6 +5,5 @@ course: CS166b
 semester: Spring 2015
 github: https://github.com/qxx/Brandeis-CampusGPS
 portfolio: https://github.com/qxx/Brandeis-CampusGPS
-presentation: https://docs.google.com/presentation/d/19FdRlhGBBfHIDk4wQVIjUNTLJOSXHVl
-4KQO0-zmPO5k/edit?usp=sharing
+presentation: https://docs.google.com/presentation/d/19FdRlhGBBfHIDk4wQVIjUNTLJOSXHVl4KQO0-zmPO5k/edit?usp=sharing
 ---
