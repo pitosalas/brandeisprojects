@@ -1,6 +1,7 @@
 .wide {
   width:100%;
   background-image:url('/images/computers.jpg');
+  background-size: cover;
 }
 
 .wide img {
