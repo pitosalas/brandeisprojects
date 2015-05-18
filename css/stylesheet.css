@@ -8,3 +8,7 @@ body {
   background-image:url('/images/computers.jpg');
   background-size:cover;
 }
+
+.wide img {
+  width:100%;
+}
