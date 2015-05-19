@@ -1,9 +1,9 @@
 ---
 layout: index
 ---
-### What is this page?
+### Welcome to the Showcase
 
-This is a collection of student project "portfolio pages". At the end of each medium to large student project, we often ask a student or team of students to prepare a summary of their work as a Portfolio Page. It is really up to the students to decide exactly how they interpret that. Basically the goal is 'showcase' the work for external consumption.
+At the end of each medium to large student project, we often ask a student or team of students to register their project for our showcase. Some of these were part of regular courses, others were independent studies and others were part of industry partnerships. Click on the links below to see the code, the presentations and the project summary pages for some of our recent projects.
 
 
 <table id="projects" class="display">
