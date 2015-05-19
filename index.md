@@ -11,7 +11,7 @@ At the end of each medium to large student project, we often ask a student or te
         <tr>
             <th>Name</th>
             <th>Summary</th>
-            <th>Portfolio Page</th>
+            <th>Project Page</th>
             <th>Github</th>
             <th>Presentation</th>
             <th>Course</th>
@@ -23,7 +23,7 @@ At the end of each medium to large student project, we often ask a student or te
         <tr>
             <td> {{ post.name }} </td>
             <td> {{ post.blurb }} </td>
-            <td> <a href="{{ post.portfolio }}">portfolio</a> </td>
+            <td> <a href="{{ post.portfolio }}">project</a> </td>
             <td> <a href="{{ post.github }}">github</a>  </td>
             <td> <a href="{{ post.presentation }}">prezo</a>  </td>
             <td> {{ post.course }} </td>
