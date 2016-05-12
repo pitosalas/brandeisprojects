@@ -25,9 +25,9 @@ At the end of each medium to large student project, we often ask a student or te
             <td> <img src="{{ post.image }}" height="96" width="96"> </td>
             <td> {{ post.name }} </td>
             <td> {{ post.blurb }} </td>
-            <td> <a href="{{ post.portfolio }}">project</a> </td>
-            <td> <a href="{{ post.github }}">github</a>  </td>
-            <td> <a href="{{ post.presentation }}">prezo</a>  </td>
+            <td> <a href="{{ post.portfolio }}">project link</a> </td>
+            <td> <a href="{{ post.github }}">github link</a>  </td>
+            <td> <a href="{{ post.presentation }}">presentation link</a>  </td>
             <td> {{ post.course }} </td>
             <td> {{ post.semester}} </td>
         </tr>
