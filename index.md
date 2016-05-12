@@ -25,12 +25,12 @@ At the end of each medium to large student project, we often ask a student or te
             <td> {{ post.blurb }} </td>
             <td>
               <ul>
-                <li> <a href="{{ post.portfolio }}">project link</a></li>
-                <li> <a href="{{ post.github }}">github link</a></li>
-                <li> <a href="{{ post.presentation }}">presentation link</a></li>
+                <li> <a href="{{ post.portfolio }}">project</a></li>
+                <li> <a href="{{ post.github }}">github</a></li>
+                <li> <a href="{{ post.presentation }}">presentation</a></li>
               </ul>
             </td>
-            <td> {{ pos</li></ul>course }} </td>
+            <td> {{ post.course }} </td>
             <td> {{ post.semester}} </td>
         </tr>
       {% endfor %}
