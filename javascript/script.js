@@ -1,9 +1,10 @@
 $(document).ready(function() {
     $('#projects').dataTable( {
         "columnDefs": [
-          { "width": "50%", "targets": 3 },
-          { "width": "3%", "targets": [ 4, 5, 6 ]}
+          { "width": "50%", "targets": 2 },
+          { "width": "3%", "targets": [ 3, 4, 5 ]}
           ],
-        "paging":   false
+        "paging":   false,
+        "order": [[ 7, 'desc' ]]
     } );
 });

@@ -2,7 +2,7 @@
 name: Streambase/Poseidon
 blurb: Real-time JSON streaming application. Connect. Manipulate. Profit.
 course: Cosi Field Project
-semester: Spring 2015
+semester: 2015 (Spring)
 github: https://github.com/edenzik/Poseidon
 portfolio: http://edenzik.github.io/Poseidon
 presentation: http://edenzik.github.io/Poseidon/slides/final.pdf
