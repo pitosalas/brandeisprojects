@@ -6,5 +6,7 @@ semester: Spring 2015
 github: #
 portfolio: https://sites.google.com/site/hummusandpitas/
 presentation: #
+bestbet: yes/no
+image: image url
 ---
 Hummus and Pitas (Aviv, Ari, Shimon, Toby)

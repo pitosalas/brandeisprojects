@@ -6,4 +6,6 @@ semester: Spring 2015
 github: https://github.com/misingnoglic/Market-Watch.git
 portfolio: https://sites.google.com/a/brandeis.edu/market-watch/home
 presentation: #
+bestbet: yes/no
+image: image url
 ---

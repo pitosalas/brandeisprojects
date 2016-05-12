@@ -9,6 +9,8 @@ At the end of each medium to large student project, we often ask a student or te
 <table id="projects" class="display">
     <thead>
         <tr>
+            <th></th>
+            <th>Best Bet?</th>
             <th>Name</th>
             <th>Summary</th>
             <th>Project Page</th>
@@ -21,6 +23,8 @@ At the end of each medium to large student project, we often ask a student or te
     <tbody>
       {% for post in site.posts %}
         <tr>
+            <td> <img src="{{ post.image }}" height="42" width="42"> </td>
+            <td> {{ post.bestbet }} </td>
             <td> {{ post.name }} </td>
             <td> {{ post.blurb }} </td>
             <td> <a href="{{ post.portfolio }}">project</a> </td>

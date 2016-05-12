@@ -6,5 +6,7 @@ semester: Spring 2015
 github: #
 portfolio: http://jacobcmurphy.github.io/nanotwitter/
 presentation: #
+bestbet: yes/no
+image: image url
 ---
 Explosive (Eden, Jacob)

@@ -6,4 +6,6 @@ semester: Spring 2015
 github: http://github.com/stevekaplan123/carpe_diem
 portfolio: https://sites.google.com/a/brandeis.edu/166b_carpediem/
 presentation: https://docs.google.com/presentation/d/1gC5Oj449MDalWkNU6-OEuDJWZq_Wmw6C6YwYU8EKis8/edit#slide=id.gaf41edd3d_0_38
+bestbet: yes/no
+image: image url
 ---

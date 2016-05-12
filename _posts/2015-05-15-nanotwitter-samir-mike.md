@@ -6,5 +6,7 @@ semester: Spring 2015
 github: #
 portfolio: #
 presentation: #
+bestbet: yes/no
+image: image url
 ---
 Samir and Mike (Samir, Mike)
