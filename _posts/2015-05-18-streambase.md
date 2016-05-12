@@ -1,5 +1,5 @@
 ---
-name: Streambase/Poseidon
+name: Streambase / Poseidon
 blurb: Real-time JSON streaming application. Connect. Manipulate. Profit.
 course: Cosi Field Project
 semester: 2015 (Spring)
