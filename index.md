@@ -6,7 +6,6 @@ layout: index
 At the end of each medium to large student project, we often ask a student or team of students to register their project for our showcase. Some of these were part of regular courses, others were independent studies and others were part of industry partnerships. Click on the links below to see the code, the presentations and the project summary pages for some of our recent projects.
 
 <hr>
-asdasda
 <table id="projects" class="display">
     <thead>
         <tr>
@@ -24,7 +23,7 @@ asdasda
     <tbody>
       {% for post in site.posts %}
         <tr>
-            <td> <img src="{{ post.image }}" height="42" width="42"> </td>
+            <td> <img src="{{ post.image }}" height="128" width="128"> </td>
             <td> {{ post.bestbet }} </td>
             <td> {{ post.name }} </td>
             <td> {{ post.blurb }} </td>
@@ -37,4 +36,3 @@ asdasda
       {% endfor %}
     </tbody>
 </table>
-asdasdxxxx
