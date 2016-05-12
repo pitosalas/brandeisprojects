@@ -7,5 +7,5 @@ github: https://github.com/edenzik/Poseidon
 portfolio: http://edenzik.github.io/Poseidon
 presentation: http://edenzik.github.io/Poseidon/slides/final.pdf
 bestbet: yes/no
-image: image url
+image: https://alienvault.cdn.rackfoundry.net/images/uploads/solutions/mssp/mssp-managed-services-icon.png
 ---

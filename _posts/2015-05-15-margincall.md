@@ -7,6 +7,6 @@ github: https://github.com/cannahum/MarginCall
 portfolio: https://sites.google.com/a/brandeis.edu/margincall/
 presentation: #
 bestbet: yes/no
-image: image url
+image: https://alienvault.cdn.rackfoundry.net/images/uploads/solutions/mssp/mssp-managed-services-icon.png
 
 ---

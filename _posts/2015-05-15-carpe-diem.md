@@ -7,5 +7,5 @@ github: http://github.com/stevekaplan123/carpe_diem
 portfolio: https://sites.google.com/a/brandeis.edu/166b_carpediem/
 presentation: https://docs.google.com/presentation/d/1gC5Oj449MDalWkNU6-OEuDJWZq_Wmw6C6YwYU8EKis8/edit#slide=id.gaf41edd3d_0_38
 bestbet: yes
-image: http://www.firstlinesoftware.com/images/blog/dsec_blog_1.jpg
+image: https://alienvault.cdn.rackfoundry.net/images/uploads/solutions/mssp/mssp-managed-services-icon.png
 ---

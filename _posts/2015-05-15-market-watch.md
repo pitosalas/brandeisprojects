@@ -7,5 +7,5 @@ github: https://github.com/misingnoglic/Market-Watch.git
 portfolio: https://sites.google.com/a/brandeis.edu/market-watch/home
 presentation: #
 bestbet: yes/no
-image: image url
+image: https://alienvault.cdn.rackfoundry.net/images/uploads/solutions/mssp/mssp-managed-services-icon.png
 ---

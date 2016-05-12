@@ -7,6 +7,6 @@ github: #
 portfolio: https://sites.google.com/site/ashcloudportfolio/home
 presentation: #
 bestbet: yes/no
-image: image url
+image: https://alienvault.cdn.rackfoundry.net/images/uploads/solutions/mssp/mssp-managed-services-icon.png
 ---
 Ash-cloud (Andy, Mark, Ruoyon, Jinfeng)
