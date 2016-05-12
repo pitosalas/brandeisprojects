@@ -1,9 +1,9 @@
 ---
 layout: index
 ---
-### Welcome to the Showcase
+### Welcome to the Brandeis University Computer Science Showcase
 
-At the end of each medium to large student project, we often ask a student or team of students to register their project for our showcase. Some of these were part of regular courses, others were independent studies and others were part of industry partnerships. Click on the links below to see the code, the presentations and the project summary pages for some of our recent projects.
+<h5>At the end of each medium to large student project, we often ask a student or team of students to register their project for our showcase. Some of these were part of regular courses, others were independent studies and others were part of industry partnerships. Click on the links below to see the code, the presentations and the project summary pages for some of our recent projects.</h5>
 
 <hr>
 <table id="projects" class="display">

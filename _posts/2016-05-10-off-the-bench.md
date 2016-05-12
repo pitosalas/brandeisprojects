@@ -1,0 +1,11 @@
+---
+name: Off The Bench
+blurb: Surveyor is the best way to conduct Market Research on Millennials
+course: CS166B
+semester: 2015 (Spring)
+github: https://github.com/SurveyorTeam/Surveyor
+portfolio: http://surveyorteam.github.io/Surveyor/
+presentation: #
+bestbet: no
+image: https://alienvault.cdn.rackfoundry.net/images/uploads/solutions/mssp/mssp-managed-services-icon.png
+---
