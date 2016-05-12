@@ -9,15 +9,15 @@ At the end of each medium to large student project, we often ask a student or te
 <table id="projects" class="display">
     <thead>
         <tr>
-            <th></th>
-            <th>Best Bet?</th>
-            <th>Name</th>
-            <th>Summary</th>
-            <th>Project Page</th>
-            <th>Github</th>
-            <th>Presentation</th>
-            <th>Course</th>
-            <th>Date</th>
+            <th width="10%"></th>
+            <th width="3%">Best Bet?</th>
+            <th width="15%">Name</th>
+            <th width="40%">Summary</th>
+            <th width="10%">Project Page</th>
+            <th width="10%">Github</th>
+            <th width="10%">Presentation</th>
+            <th width="10%">Course</th>
+            <th width="10%">Date</th>
         </tr>
     </thead>
     <tbody>
