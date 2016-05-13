@@ -1,11 +1,13 @@
 ---
-name: Your product's name!
-blurb: 140 character summary
-course: All upper case, e.g. CS105B
-semester: e.g. Spring 2015
-github: url to your github repo
-portfolio: url to your portfolio page
+name:
+blurb:
+course: CS166B
+semester: 2016 (Spring)
+github: #
+application: #
+portfolio:  #
 presentation: #
-bestbet: yes/no
-image: image url
+product:  #
+bestbet: no
+image: https://alienvault.cdn.rackfoundry.net/images/uploads/solutions/mssp/mssp-managed-services-icon.png
 ---
