@@ -1,7 +1,8 @@
 $(document).ready(function() {
     $('#projects').dataTable( {
         "columnDefs": [
-          { "width": "50%", "targets": 2 },
+          { "width": "10%", "targets": 1},
+          { "width": "60%", "targets": 2 },
           { "width": "2%", "targets": [ 3, 4, 5]}
           ],
         "paging":   false,
