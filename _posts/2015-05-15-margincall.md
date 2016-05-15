@@ -8,5 +8,4 @@ portfolio: https://sites.google.com/a/brandeis.edu/margincall/
 presentation: #
 bestbet: yes/no
 image: https://alienvault.cdn.rackfoundry.net/images/uploads/solutions/mssp/mssp-managed-services-icon.png
-
 ---
