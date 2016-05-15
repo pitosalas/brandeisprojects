@@ -1,7 +1,7 @@
 ---
 name: KnowledgeVision Template Designer
 blurb: Our main objective for the Spring 2016 Senior Field Project was to create a tool for KnowledgeVision that allows their customers and non-technical staff to create customized templates without the necessity of front-end development skills.
-course: Field Project
+course: Cosi Field Project
 semester: 2016 (Spring)
 github: https://github.com/SeniorFieldProjectKVTeam/master
 portfolio: http://seniorfieldprojectkvteam.github.io/#1

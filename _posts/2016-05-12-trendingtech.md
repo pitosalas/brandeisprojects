@@ -1,7 +1,7 @@
 ---
 name: Trending Technologies Radar
 blurb: Research and tools to discover and report on trends in technology by mining social media and other publicly available data.
-course: Field Project
+course: Cosi Field Project
 semester: 2016 (Spring)
 github: https://github.com/GiangNguyen94/SeniorFieldProject/
 portfolio: http://giangnguyen94.github.io/SeniorFieldProject/
