@@ -7,5 +7,5 @@ github: https://github.com/GiangNguyen94/SeniorFieldProject/
 portfolio: http://giangnguyen94.github.io/SeniorFieldProject/
 presentation: https://docs.google.com/presentation/d/1quGgqq1AlqSMgtkxvwH4pcnWwp6-4HdjbLmVXeubaUE/edit?usp=sharing
 bestbet: yes
-image: http://previews.123rf.com/images/robuart/robuart1411/robuart141100142/33567965-Office-teamwork-workers-business-management-meeting-and-brainstorming-on-square-table-in-top-view-fl-Stock-Vector.jpg
+image: http://vistaedfoundation.org/wp-content/uploads/2015/10/VEF-technology.jpg
 ---
