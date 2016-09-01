@@ -1,6 +1,6 @@
 ---
 name: Food Trucks in Boston
-blurb: "City of Boston Food Truck Scheduling: A web system that automates the selection process that allows food truck owners to participate in lottery process remotely and also reduce the time of the event."
+blurb: "City of Boston Food Truck Scheduling: A web system that automates the selection process that allows food truck owners to participate in lottery process remotely and also reduce the time of the event"
 course: Cosi Field Project
 semester: 2015 (Spring)
 github: https://drive.google.com/folderview?id=0B_7j8_dzcK9XaXNRWEZnalRLbEU&usp=sharing
