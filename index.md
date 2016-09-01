@@ -8,11 +8,7 @@ layout: index
 
 <hr>
 
-before table tab
-
 <table id="projects" class="display">
-
-after table tab
 
   <thead>
     <tr>
