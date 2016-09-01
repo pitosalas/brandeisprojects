@@ -28,7 +28,7 @@ after table tab
     {% for post in site.posts %}
       <tr>
         <td> <img src="{{ post.image }}" height="96" width="96"> </td>
-        <td> <h4> {{ post.name }} </h2> </td>
+        <td> <h4> {{ post.name }} </h4> </td>
         <td> {{ post.blurb }} </td>
         <td>
             <ul>
