@@ -8,5 +8,5 @@ application: https://duewiz.herokuapp.com/users/sign_in
 portfolio:  http://duewiz.github.io/Student_Organizer
 presentation: #
 bestbet: no
-image: https://alienvault.cdn.rackfoundry.net/images/uploads/solutions/mssp/mssp-managed-services-icon.png
+image: http://www.newpeaksolutions.com/wp-content/uploads/2016/04/ruby-on-rails.jpg
 ---
