@@ -8,5 +8,5 @@ application: https://cosi166-learncoding.herokuapp.com/
 portfolio: https://gist.github.com/anboi1225/9fc85bc766c5f7ac1326bf12000ceec0
 presentation: #
 bestbet: no
-image: https://alienvault.cdn.rackfoundry.net/images/uploads/solutions/mssp/mssp-managed-services-icon.png
+image: http://www.newpeaksolutions.com/wp-content/uploads/2016/04/ruby-on-rails.jpg
 ---

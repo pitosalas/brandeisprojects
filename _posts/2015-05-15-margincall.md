@@ -7,5 +7,5 @@ github: https://github.com/cannahum/MarginCall
 portfolio: https://sites.google.com/a/brandeis.edu/margincall/
 presentation: #
 bestbet: yes/no
-image: https://alienvault.cdn.rackfoundry.net/images/uploads/solutions/mssp/mssp-managed-services-icon.png
+image: http://www.newpeaksolutions.com/wp-content/uploads/2016/04/ruby-on-rails.jpg
 ---

@@ -7,5 +7,5 @@ github: https://github.com/qxx/Brandeis-CampusGPS
 portfolio: https://github.com/qxx/Brandeis-CampusGPS
 presentation: https://docs.google.com/presentation/d/19FdRlhGBBfHIDk4wQVIjUNTLJOSXHVl4KQO0-zmPO5k/edit?usp=sharing
 bestbet: yes
-image: https://alienvault.cdn.rackfoundry.net/images/uploads/solutions/mssp/mssp-managed-services-icon.png
+image: http://www.newpeaksolutions.com/wp-content/uploads/2016/04/ruby-on-rails.jpg
 ---

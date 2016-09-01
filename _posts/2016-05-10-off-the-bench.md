@@ -8,5 +8,5 @@ application: https://off-the-bench.herokuapp.com/
 portfolio: https://github.com/ACHEZ9/WorkoutBuddy
 presentation: #
 bestbet: no
-image: https://alienvault.cdn.rackfoundry.net/images/uploads/solutions/mssp/mssp-managed-services-icon.png
+image: http://www.newpeaksolutions.com/wp-content/uploads/2016/04/ruby-on-rails.jpg
 ---
