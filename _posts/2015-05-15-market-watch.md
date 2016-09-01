@@ -6,6 +6,6 @@ semester: 2015 (Spring)
 github: https://github.com/misingnoglic/Market-Watch.git
 portfolio: https://sites.google.com/a/brandeis.edu/market-watch/home
 presentation: #
-bestbet: yes/no
+bestbet: no
 image: https://alienvault.cdn.rackfoundry.net/images/uploads/solutions/mssp/mssp-managed-services-icon.png
 ---
