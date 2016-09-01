@@ -14,33 +14,33 @@ before table tab
 
 after table tab
 
-    <thead>
-        <tr>
-            <th></th>
-            <th>Name</th>
-            <th>Summary</th>
-            <th>Links</th>
-            <th>Course</th>
-            <th>Date</th>
-        </tr>
-    </thead>
-    <tbody>
-      {% for post in site.posts %}
-        <tr>
-            <td> <img src="{{ post.image }}" height="96" width="96"> </td>
-            <td> <h4> {{ post.name }} </h2> </td>
-            <td> {{ post.blurb }} </td>
-            <td>
-              <ul>
-                <li> <a href="{{ post.portfolio }}">summary page</a></li>
-                <li> <a href="{{ post.application }}">product</a></li>
-                <li> <a href="{{ post.github }}">github</a></li>
-                <li> <a href="{{ post.presentation }}">presentation</a></li>
-              </ul>
-            </td>
-            <td> {{ post.course }} </td>
-            <td> {{ post.semester}} </td>
-        </tr>
-      {% endfor %}
-    </tbody>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Name</th>
+      <th>Summary</th>
+      <th>Links</th>
+      <th>Course</th>
+        <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for post in site.posts %}
+      <tr>
+        <td> <img src="{{ post.image }}" height="96" width="96"> </td>
+        <td> <h4> {{ post.name }} </h2> </td>
+        <td> {{ post.blurb }} </td>
+        <td>
+            <ul>
+              <li> <a href="{{ post.portfolio }}">summary page</a></li>
+              <li> <a href="{{ post.application }}">product</a></li>
+              <li> <a href="{{ post.github }}">github</a></li>
+              <li> <a href="{{ post.presentation }}">presentation</a></li>
+            </ul>
+          </td>
+        <td> {{ post.course }} </td>
+        <td> {{ post.semester}} </td>
+      </tr>
+    {% endfor %}
+  </tbody>
 </table>
