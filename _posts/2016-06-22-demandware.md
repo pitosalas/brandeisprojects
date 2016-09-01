@@ -8,3 +8,4 @@ portfolio: http://brandeisxdemandware.github.io/
 presentation: http://tinyurl.com/demandwarexbrandeis
 bestbet: yes
 image: http://www.jameskusachi.com/wp-content/uploads/2013/12/Demandware_logo.png
+---
