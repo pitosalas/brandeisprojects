@@ -7,7 +7,9 @@ layout: index
 <p>Click on the links below to see the code, the presentations and the project summary pages for some of our recent projects!<p>
 
 <hr>
+before table tab
 <table id="projects" class="display">
+after table tab
     <thead>
         <tr>
             <th></th>
