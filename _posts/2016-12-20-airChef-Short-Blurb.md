@@ -1,13 +1,14 @@
 ﻿---
 name: AirChef
-Blurb :Pairing aspiring chefs with hungry and busy individuals to create an affordable and home cooked meal!
+blurb :Pairing aspiring chefs with hungry and busy individuals to create an affordable and home cooked meal!
 course: CS165a
 semester: 2016 (Fall)
-github: https://github.com/amahajanbrandeis/AirChef-Client (Andriod Appliction) 
-Portfolio :http://airchef.org/summary.html. Front facing site at airchef.org
-Presentation: https://docs.google.com/presentation/d/1sdyPTxF4DNhm2KH2Re6rK3vLzIQI0cZIx1bNr30HKf4/edit?usp=sharing
-Image: http://airchef.org/AirChef-Square-Image.png
+github: https://github.com/amahajanbrandeis/AirChef-Client (Andriod Appliction)
+portfolio :http://airchef.org/summary.html. Front facing site at airchef.org
+presentation: https://docs.google.com/presentation/d/1sdyPTxF4DNhm2KH2Re6rK3vLzIQI0cZIx1bNr30HKf4/edit?usp=sharing
+image: http://airchef.org/AirChef-Square-Image.png
 ---
-AirChef
+#### AirChef
 Ever finish a long day at work, or get home late from class and not have time to cook dinner? Have you been eating unhealthy because unwholesome food is easier to prepare? AirChef, a peer-to-peer home-cooked food delivery service, is tackling both of these issues - and more. AirChef is a mobile and desktop application that will make healthy and delicious home-cooked meals a reality for college students on a daily basis. Looking to support the busy college student, AirChef pairs people who want to cook and show off their culinary skills, with people who want home-cooked meals that do not have time or skills to prepare it themselves.
+
 AirChef enables cooks to go online, either on mobile or on the web, and post meals that they know how to make. They would provide descriptions of the meals, ingredients used, allergy information, type of dish (e.g. Kosher, Vegetarian, etc.), dates for delivery availability and a bio attached to their profile. On the other hand, those looking to order food will be able search for meals based on criteria such as location, culinary style, ingredients, and cost. The cook will then prepare the meal and deliver the food to the person who ordered. Since this current business plan is focused around college campuses we assume that cooks will be able to deliver the food with relative ease. AirChef will obtain revenue through a fee based business plan in which we take a percentage of all sales.
