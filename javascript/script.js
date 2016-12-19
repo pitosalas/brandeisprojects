@@ -5,7 +5,6 @@ $(document).ready(function() {
           { "width": "60%", "targets": 2 },
           { "width": "2%", "targets": [ 3, 4, 5]}
           ],
-        "paging":   true,
-        "order": [[ 5, 'desc' ]]
+        "paging":   true
     } );
 });
