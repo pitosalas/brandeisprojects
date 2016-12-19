@@ -17,7 +17,7 @@ layout: index
       <th>Summary</th>
       <th>Links</th>
       <th>Course</th>
-        <th>Date</th>
+      <th>Date</th>
     </tr>
   </thead>
   <tbody>
@@ -36,6 +36,7 @@ layout: index
           </td>
         <td> {{ post.course }} </td>
         <td> {{ post.semester}} </td>
+        <td> {{ post.name }} </td>
       </tr>
     {% endfor %}
   </tbody>
