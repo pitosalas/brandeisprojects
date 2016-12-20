@@ -1,6 +1,6 @@
 ---
 name: Intraleagues
-blurb: Intraleagues provides a platform for gamers to play locally with their friends, regardless of their skill level, with the ultimate goal of forming a more cohesive gaming community"
+blurb: Intraleagues provides a platform for gamers to play locally with their friends, regardless of their skill level, with the ultimate goal of forming a more cohesive gaming community
 course: CS165a
 semester: 2016 (Fall)
 portfolio: http://ssax18.wixsite.com/intraleagues
