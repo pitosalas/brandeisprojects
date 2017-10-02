@@ -3,7 +3,7 @@ name: Dicer
 blurb: Dicer is a domain-specifc social network that allows Dungeons and Dragons players to find and connect with other players.
 github: http://github.com/dvilinsky/Dicer
 course: CS166b
-semester: 2017 Spring
+semester: 2017 (Spring)
 application: http://dicer-dnd.herokuapp.com/
 portfolio: https://ctcho.github.io
 presentation: https://docs.google.com/presentation/d/1xm7LOQbgw5kUS5VNRfUMlCPPA1ytmdU08EBJz0-2hyk/edit?ts=590e2435
