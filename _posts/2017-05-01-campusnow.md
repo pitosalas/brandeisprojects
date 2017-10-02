@@ -1,0 +1,12 @@
+---
+name: CampusNow
+blurb: An app that allows Brandeis students to find campus events they are interested in. They can search for, see recommended events, save events to their calendar, and receive text reminders about the event.
+course: CS166b
+semester: 2017 (Spring)
+bestbet: no
+portfolio: http://zacharyshaleweiss.com/CampusNow
+presentation: https://docs.google.com/presentation/u/1/d/11nx9uHSPdJFcJFLB72X-k_9L3rQWPJFtML8Vh6qUKFU/edit?usp=sharing
+image: http://i.imgur.com/O6oZ2uN.png
+---
+### Students
+Ari Carr (acarr@brandeis.edu), Aaron Gold (ahgold@brandeis.edu), Hunter Stusnick (stusnick@brandeis.edu), Zach Weiss (zweiss@brandeis.edu)
