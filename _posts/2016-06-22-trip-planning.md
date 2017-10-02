@@ -6,6 +6,5 @@ semester: 2015 (Spring)
 github: https://github.com/YosephT/Tripplanning
 portfolio: http://yosepht.github.io/Tripplanning/
 presentation: http://edenzik.github.io/Poseidon/slides/final.pdf
-bestbet: yes/no
 image: http://www.cityofboston.gov/images_documents/seal%20100_tcm3-43385.png
 ---

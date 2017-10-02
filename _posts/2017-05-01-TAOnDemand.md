@@ -6,7 +6,7 @@ github: https://github.com/adiberk/TA
 course: CS166b
 semester: 2017 (Spring)
 application: https://taondemand.herokuapp.com
-porfolio: https://adiberk.github.io/TA/
+portfolio: https://adiberk.github.io/TA/
 presentation: https://goo.gl/D8R0He
 image: https://ibb.co/cqJBrQ
 ---
