@@ -8,5 +8,5 @@ semester: 2017 (Spring)
 application: https://taondemand.herokuapp.com
 portfolio: https://adiberk.github.io/TA/
 presentation: https://goo.gl/D8R0He
-image: https://ibb.co/cqJBrQ
+image: https://cdn3.iconfinder.com/data/icons/smoothfill-education/30/education_004-teaching-teacher-teach-instructor-study-school-128.png
 ---
