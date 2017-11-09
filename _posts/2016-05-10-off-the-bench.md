@@ -6,7 +6,7 @@ semester: 2016 (Spring)
 github: https://github.com/ACHEZ9/WorkoutBuddy
 application: https://off-the-bench.herokuapp.com/
 portfolio: https://github.com/ACHEZ9/WorkoutBuddy
-presentation: #
-bestbet: no
+presentation:  https://docs.google.com/presentation/d/pQMUpz4/edit?usp=sharing
 image: http://www.newpeaksolutions.com/wp-content/uploads/2016/04/ruby-on-rails.jpg
+team: ["Elephant Peet", "Birdy Blue", "Yellow Uncle", "Hula Hoop"]
 ---
