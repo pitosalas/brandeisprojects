@@ -5,6 +5,6 @@ course: CS165A
 semester: 2017 (Fall)
 portfolio: https://groupwork165.wixsite.com/accountable
 presentation: https://docs.google.com/a/brandeis.edu/presentation/d/1nltjU000v9NSdGi_3R7_XKk0yG027CEpL-pzaHQPhoo/edit?usp=sharing
-image: https://imgur.com/RCj6Ky2
+image: https://i.imgur.com/RCj6Ky2.png
 team: Daniel Klein, Alfredo Mendoza, Duong Nguyen, Allison Regna 
 ---
