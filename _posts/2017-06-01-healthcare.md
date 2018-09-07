@@ -7,7 +7,7 @@ github: https://github.com/amgoncalves/health-insurance-decoder
 application: https://health-insurance-decoder.herokuapp.com/
 portfolio: https://health-decoder.github.io/health-insurance-decoder/
 presentation: https://drive.google.com/a/brandeis.edu/file/d/1slKnLiWogSK_UZLZlP8fpQNEwYPsAt1s/view?usp=sharing
-image: https://drive.google.com/open?id=1cJl3bTA3FkEkSyk1RvxgyLWLqgSnVMUC
+image: http://www.newpeaksolutions.com/wp-content/uploads/2016/04/ruby-on-rails.jpg
 deliverable folder: https://drive.google.com/open?id=1slKnLiWogSK_UZLZlP8fpQNEwYPsAt1s
 team: Xi Chen (Cici), Alyssa Goncalves, Ian Hankin, Ziyu Qiu (Andrea)
 ---
