@@ -1,6 +1,6 @@
 ---
 name: GoodTrades
-blurb: GoodTrades is a one-stop-shop for information to make good trades on ethically social companies! GoodTrades aggregates data from multiple sources about companies� social and ethical values on a grade scale of A to F, matches users with companies that best fit their interests, and provides users with information about companies� social activities.
+blurb: GoodTrades is a one-stop-shop for information to make good trades on ethically social companies! GoodTrades aggregates data from multiple sources about companies' social and ethical values on a grade scale of A to F, matches users with companies that best fit their interests, and provides users with information about companies' social activities.
 bourse: CS165A
 semester: 2018 (Fall)
 portfolio: http://goodtrades.org/
