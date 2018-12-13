@@ -1,1 +1,10 @@
----name: Coursignerblurb: Have you every struggled with college course selection? Coursigner automatically generates a unique, customizable schedule catered to the needs and desires of the student user. Coursigner offers a robust starting point for students to kick start their course-choosing process in order to help ensure their success as college students. ÊÊcourse: CS165Asemester: 2018 (Fall)portfolio: https://sites.google.com/brandeis.edu/coursigner-portfolio/homepresentation: https://docs.google.com/presentation/d/1FMcFH0yPuxR6_U_W7DYwKOawd_6j3pEdCetU_xmmqJ0/edit?usp=sharingimage: https://drive.google.com/file/d/1stXSlDcRLVKTsH2V2VEMaVxbB6kTk5hk/view?usp=sharingteam: Alan Huang, Ritika Saxena, Youbin Ahn---
+---
+name: Coursigner
+blurb: Have you every struggled with college course selection? Coursigner automatically generates a unique, customizable schedule catered to the needs and desires of the student user. Coursigner offers a robust starting point for students to kick start their course-choosing process in order to help ensure their success as college students. ï¿½ï¿½
+course: CS165A
+semester: 2018 (Fall)
+portfolio: https://sites.google.com/brandeis.edu/coursigner-portfolio/home
+presentation: https://docs.google.com/presentation/d/1FMcFH0yPuxR6_U_W7DYwKOawd_6j3pEdCetU_xmmqJ0/edit?usp=sharing
+image: https://drive.google.com/file/d/1stXSlDcRLVKTsH2V2VEMaVxbB6kTk5hk/view?usp=sharing
+team: Alan Huang, Ritika Saxena, Youbin Ahn
+---
