@@ -5,5 +5,6 @@ course: CS165A
 semester: 2018 (Fall)
 portfolio: https://politicalendar.wixsite.com/website-3
 presentation: https://docs.google.com/presentation/d/1rrLcOgkWOUlX8yAOabHMFC4vSs4tZjeOb5i0s6a8D68/edit#slide=id.g49cf401398_1_2292
+image: https://i.imgur.com/zG86dv6.png
 team: Mara Khayter, Annabelle Wang, Anna Bulger, Danbing Chen
 ---
