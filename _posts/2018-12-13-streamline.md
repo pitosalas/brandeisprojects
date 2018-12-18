@@ -7,6 +7,6 @@ github: https://github.com/Gisaldjo/StreamLine
 application: https://stream-line.herokuapp.com/
 portfolio: https://streamlineapp.wixsite.com/product
 presentation:  https://docs.google.com/presentation/d/1rJJj-2faAWJxCbSl4ZcUMOc5tQidvxkBwmgiuYoIlSg/edit?usp=sharing
-image: https://ibb.co/wR9XsNL
+image: https://i.ibb.co/Xbhg8Z4/128x128.png
 team: Darhan Rzaev, Gavin Yahna, Nadav Raichman, Gisaldjo Purbollari
 ---
