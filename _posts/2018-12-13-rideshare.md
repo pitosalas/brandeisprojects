@@ -7,6 +7,6 @@ github: https://github.com/CS166-RideShare/RideShare
 application: https://rideshare-166b.herokuapp.com/
 portfolio: https://fzeng2.wixsite.com/rideshare-166b
 presentation: https://docs.google.com/presentation/d/1k5tGeWJt08fZUSNzCWBDCFgxWAJfffFqPNZacKGGZgc/edit?usp=sharing
-image: https://drive.google.com/file/d/1JOSmzQeGBX9RtVM8F0oYokCpYKc6YdI3/view?usp=sharing
+image: https://raw.githubusercontent.com/CS166-RideShare/RideShare/master/app/assets/images/logo.png
 team: Siyuan Chen, Frank Zeng, Terence Lyu
 ---
