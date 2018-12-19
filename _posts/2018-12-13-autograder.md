@@ -6,7 +6,7 @@ semester: 2018 (Fall)
 github: https://github.com/Capstone-auto-grader/auto-grader
 application: https://capstone-grading.herokuapp.com/
 portfolio: https://capstone-auto-grader.github.io/auto-grader/
-presentation:  https://drive.google.com/open?id=1wDzf8ELPX64ZoNKDYCdpAkp1rPBzgeNRzhgofw2N5B4
-image: https://drive.google.com/open?id=1fWgUiNYAs0Mxb7GuLDulS2UXkfdR4Omc
+presentation: https://docs.google.com/presentation/d/1pmVTXSSnBszyxUIG8NzFy_4R3JAcjWvDK2dAR-n_N6M/edit?usp=sharing
+image: https://raw.githubusercontent.com/Capstone-auto-grader/auto-grader/master/auto-grader.png 
 team: Sam Stern, Eli Esrig, Zihao Wang, Calum Middlemiss
 ---
