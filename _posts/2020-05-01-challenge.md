@@ -1,6 +1,6 @@
 ---
 name: One Day Challenge
-blurb: One Day Challenge is a platform that allows users to create and participate in fun and challenges with friends and family. Whether it's reading more books, eating healthier diets, or getting that summer body you've alway wanted, join fun and meaningful challenges to change your life. 
+blurb: One Day Challenge is a platform that allows users to create and participate in fun and challenges with friends and family. Whether its reading more books, eating healthier diets, or getting that summer body you've alway wanted, join fun and meaningful challenges to change your life. 
 course: CS166B
 semester: 2020 (Spring)
 github: https://github.com/Forlubi/one_day_challenge
