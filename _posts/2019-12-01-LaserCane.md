@@ -1,7 +1,6 @@
 ---
 name: LaserCane
-blurb: LaserCane replaces the white cane used by the visually impaired. Used with the same methods as the traditional white cane, it detects obstacles below the waist with LIDAR and obstacles above the waist with ultrasonic snesors.
-and ultrasonic sensors.
+blurb: LaserCane replaces the white cane used by the visually impaired. Used with the same methods as the traditional white cane, it detects obstacles below the waist with LIDAR and obstacles above the waist with ultrasonic sensors
 course: CS102A
 semester: 2019 (Fall)
 github: n/a
