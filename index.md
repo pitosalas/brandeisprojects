@@ -28,7 +28,6 @@ layout: index
         <td> {{ post.blurb }} </td>
         <td>
             <ul>
-              <li> <a href="{{ post.portfolio }}">summary page</a></li>
               <li> <a href="{{ post.application }}">product</a></li>
               <li> <a href="{{ post.github }}">github</a></li>
               <li> <a href="{{ post.presentation }}">presentation</a></li>
