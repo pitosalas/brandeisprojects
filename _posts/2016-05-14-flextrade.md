@@ -8,5 +8,5 @@ application: http://projectflextrade.weebly.com
 portfolio:  #
 presentation: #
 bestbet: no
-image: http://www.perpetulon.com/wp-content/uploads/2015/06/Lean-Startup-1280-960.jpg
+image: https://drive.google.com/thumbnail?id=1xNBX0zJGgtxtqj5zFU6N23RdCNe6ZiNC
 ---
