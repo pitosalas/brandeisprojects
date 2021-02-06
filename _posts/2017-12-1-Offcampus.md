@@ -7,6 +7,6 @@ github: https://github.com/ileeds/DEALit
 application: https://dealitdeis.herokuapp.com/
 portfolio: https://xyjiang.wixsite.com/offcampus
 presentation:  https://docs.google.com/presentation/d/18TZf8ffbWvfGDfWz2ONb90m6Y6xE2fC8IPj7r6jZGjg/edit?usp=sharing
-image: https://i.imgur.com/LU8ZV02.jpg
+image: https://drive.google.com/thumbnail?id=1xNBX0zJGgtxtqj5zFU6N23RdCNe6ZiNC
 team: Jonathan Turner, Xinyi Jiang, Ian Leeds, Tinsa Harding
 ---
