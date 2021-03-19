@@ -7,4 +7,3 @@ portfolio: http://samlee0.wixsite.com/doitapp
 presentation: https://c569257608da4dcaafbc-my.sharepoint.com/personal/aelkaim_brandeis_edu/_layouts/15/guestaccess.aspx?guestaccesstoken=0Ulya2LWeIEi0m2nfCDjLHzBI3N6wjssiOiORreQNTA%3d&docid=0788ec6619a0649c6b6bb3bec32ca8965&rev=1
 image: https://drive.google.com/thumbnail?id=1mI7HNSOOJ5ww7Zegab0jBSebi7QCjCCN
 ---
-### DoIt

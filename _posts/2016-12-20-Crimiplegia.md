@@ -1,7 +1,6 @@
 ---
 name: Crimiplegia
 blurb: Crimiplegia is an information based company that helps travelers from all over the world to understand potential risks better and feel safer when traveling to the US. Data is useless, unless is correctly interpreted; that is where Crimiplegia comes in. At Crimiplegia, we aim to interpret criminality data in the best way possible so that our users can travel more, and worry less.
-
 course: CS165a
 semester: 2016 Fall
 github: None
