@@ -6,6 +6,6 @@ $(document).ready(function() {
           { "width": "10%", "targets": 3},
           { "width": "10%", "targets": [4, 5]}
           ],
-        "paging":   true
+        "paging":   false
     } );
 });
