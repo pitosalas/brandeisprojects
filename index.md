@@ -23,6 +23,7 @@ Click on the links below to see the code, the presentations and the project summ
   </thead>
   <tbody>
     {% for post in site.posts %}
+      {% if post.name %}
       <tr>
         <td> <img src="{{ post.image }}" height="96" width="96"> </td>
         <td> <h4> {{ post.name }} </h4> </td>
@@ -41,6 +42,7 @@ Click on the links below to see the code, the presentations and the project summ
         <td> {{ post.course }} </td>
         <td> {{ post.semester}} </td>
       </tr>
+      {% end %}
     {% endfor %}
   </tbody>
 </table>
