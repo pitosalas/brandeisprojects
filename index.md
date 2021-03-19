@@ -42,7 +42,7 @@ Click on the links below to see the code, the presentations and the project summ
         <td> {{ post.course }} </td>
         <td> {{ post.semester}} </td>
       </tr>
-      {% end %}
+      {% endif %}
     {% endfor %}
   </tbody>
 </table>
