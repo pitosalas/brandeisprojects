@@ -7,6 +7,6 @@ semester: 2021 (Fall)
 github: https://github.com/lmayancela/cosi166-yourturn
 application: https://obscure-tor-72595.herokuapp.com/
 presentation:  https://docs.google.com/presentation/d/1yZCKAH8b8S6PHeDCTPp8IwfBer5Fhap7nfxZWzSPksg/edit?usp=sharing
-image url: https://i.ibb.co/y8Z4B7P/YourTurn.png
+image: https://i.ibb.co/y8Z4B7P/YourTurn.png
 team: Jesse Rong, Lisandro Mayancela, Wentao Li
 ---
