@@ -1,7 +1,6 @@
 ---
 name: Your Turn
-blurb: The purpose of this app is to help groups of housemates manage various house tasks on one convenient platform
-These tasks include things such as rent splitting, checking availability of house appliances (dishwasher, laundry, etc.), and keeping track of important house information (passwords) to name a few.
+blurb: The purpose of this app is to help groups of housemates manage various house tasks on one convenient platform. These tasks include things such as rent splitting, checking availability of house appliances (dishwasher, laundry, etc.), and keeping track of important house information (passwords) to name a few.
 course: CS166B
 semester: 2021 (Fall)
 github: https://github.com/lmayancela/cosi166-yourturn
