@@ -5,5 +5,5 @@ course: CS102A
 semester: 2021 (Fall)
 presentation: https://docs.google.com/presentation/d/1ovnpp9ebxOlmXX\_fbdPSLR8XzoCCcuAs1c3ihfeUROQ/edit#slide=id.g6bdca54fc3\_0\_414usp=sharing 
 team: Jeremy Bernstein, Jimmy Kong, Hiro Chen
-image: http://pitosalas.github.io/brandeisprojects/images/reuserelive.png
+image: http://pitosalas.github.io/brandeisprojects/images/homesmart.png
 ---
