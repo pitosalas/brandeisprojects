@@ -5,5 +5,5 @@ course: CS102A
 semester: 2021 (Fall)
 presentation: https://docs.google.com/presentation/d/11EmiN9WJ4uYeRfKGxx4j-87Qv-gauOzZ2eAM-hKhf60/edit?usp=sharing
 team: Anne Lui, Karen Mai, Sagar Punjabi
-image: http://pitosalas.github.io/brandeisprojects/images/shoppingapp.jpeg
+image: http://pitosalas.github.io/brandeisprojects/images/reuserelive.png
 ---
