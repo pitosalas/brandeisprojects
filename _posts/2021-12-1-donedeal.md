@@ -5,6 +5,6 @@ course: COSI 102A
 semester: 2021 (Fall)
 presentation: https://docs.google.com/presentation/d/1MZa9B5dadKnuMLxeJHgzlCrc8ssppti1lxg7uCYzuV4/edit?usp=sharing
 team: Naomi Haser, Alexion Ramos, Mohannad Rayan
-image: http://pitosalas.github.io/brandeisprojects/images/donedeal.jpeg
+image: http://pitosalas.github.io/brandeisprojects/images/donedeal.png
 ---
 
