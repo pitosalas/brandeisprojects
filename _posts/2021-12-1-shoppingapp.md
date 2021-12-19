@@ -6,6 +6,6 @@ semester: 2021 (Fall)
 github: https://github.com/166b-team-Elysia/Elysia-app
 application: https://protected-river-89609.herokuapp.com/
 presentation: 
-image:
+image:  http://pitosalas.github.io/brandeisprojects/images/shoppingapp.jpeg
 team: Lingyu Liu, Zhendong Yin
 ---
