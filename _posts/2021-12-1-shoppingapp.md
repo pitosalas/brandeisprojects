@@ -5,7 +5,7 @@ course: CS166B
 semester: 2021 (Fall)
 github: https://github.com/166b-team-Elysia/Elysia-app
 application: https://protected-river-89609.herokuapp.com/
-presentation: https://github.com/166b-team-Elysia/Elysia-app/blob/main/Elysia%20app.pptx.pdf
+presentation: https://docs.google.com/presentation/d/1aVF3FkQMJ2nGPGC1IO-9Wc2ymOw0j2Nz/edit#slide=id.p1
 image:  http://pitosalas.github.io/brandeisprojects/images/shoppingapp.jpeg
 team: Lingyu Liu, Zhendong Yin
 ---
