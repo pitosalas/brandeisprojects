@@ -5,7 +5,6 @@ course: CS166b
 semester: 2017 (Spring)
 portfolio: http://zacharyshaleweiss.com/CampusNow
 presentation: https://docs.google.com/presentation/u/1/d/11nx9uHSPdJFcJFLB72X-k_9L3rQWPJFtML8Vh6qUKFU/edit?usp=sharing
-image: http://i.imgur.com/O6oZ2uN.png
+image: https://drive.google.com/thumbnail?id=1Ygv-pGNlQYoFVeTpbdntLXSRp6r-CTmo
+team: Ari Carr (acarr@brandeis.edu), Aaron Gold (ahgold@brandeis.edu), Hunter Stusnick (stusnick@brandeis.edu), Zach Weiss (zweiss@brandeis.edu)
 ---
-### Students
-Ari Carr (acarr@brandeis.edu), Aaron Gold (ahgold@brandeis.edu), Hunter Stusnick (stusnick@brandeis.edu), Zach Weiss (zweiss@brandeis.edu)

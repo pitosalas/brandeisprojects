@@ -5,6 +5,6 @@ course: CS102A
 semester: 2019 (Fall)
 portfolio: https://farm2table35.wixsite.com/mysite
 presentation: https://docs.google.com/presentation/d/1uPalhTOigiDAiD68DAlBOP-COqocHjVKxnO8Gba_h0k/edit?usp=sharing
-image: https://drive.google.com/file/d/1Kg6E9XEPQP5bJWd-h9QylMtny4kVr80E/view?usp=sharing
+image: https://drive.google.com/thumbnail?id=1Kg6E9XEPQP5bJWd-h9QylMtny4kVr80E
 team: Cho Han Lau, Gabriel Arye, Jiaao Gong, Vy Tran
 ---
