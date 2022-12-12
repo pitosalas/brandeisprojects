@@ -38,6 +38,10 @@ Click on the links below to see the code, the presentations and the project summ
           {% if post.presentation %}
           <p><i class="fa fa-file-powerpoint-o" aria-hidden="true"></i> <a href="{{ post.presentation }}">Presentation</a></p>
           {% endif %}
+          {% if post.video %}
+          <p><i class="fa fa-file-video-o" aria-hidden="true"></i> <a href="{{ post.video }}">Presentation</a></p>
+          {% endif %}
+
         </td>
         <td> {{ post.course }} </td>
         <td> {{ post.semester}} </td>
