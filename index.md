@@ -39,7 +39,7 @@ Click on the links below to see the code, the presentations and the project summ
           <p><i class="fa fa-file-powerpoint-o" aria-hidden="true"></i> <a href="{{ post.presentation }}">Presentation</a></p>
           {% endif %}
           {% if post.video %}
-          <p><i class="fa fa-file-video-o" aria-hidden="true"></i> <a href="{{ post.video }}">Presentation</a></p>
+          <p><i class="fa fa-file-video-o" aria-hidden="true"></i> <a href="{{ post.video }}">Video</a></p>
           {% endif %}
 
         </td>
