@@ -7,4 +7,5 @@ github:
 application:
 presentation:  https://docs.google.com/presentation/d/17uG7YlslgM2h-SaO9kASZJOnyfFWF97-6zOTJ_twEcM/edit?usp=sharing
 team: Ephraim Zimmerman, Kay Smith, Clark Xu, John Xie
+image: http://pitosalas.github.io/brandeisprojects/images/dpt.jpg
 ---

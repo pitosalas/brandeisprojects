@@ -5,4 +5,5 @@ course: CS102a
 semester: 2022 (fall)
 presentation:  https://docs.google.com/presentation/d/1Iz5m5yX26fVJCuvQAy-xDE5ZrNua_77fDJ7Ee-y0icg/edit?usp=sharing
 team: Cole Feuer, Long Yi, Xiaoran Liu, Jamaine Genius
+image: http://pitosalas.github.io/brandeisprojects/images/surveyme.png
 ---
