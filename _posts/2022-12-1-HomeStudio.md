@@ -7,4 +7,5 @@ github: N/A
 application: N/A
 presentation: https://docs.google.com/presentation/d/1lYto1HJHp0k3MyUT2zqil2FL1iL6RXd4sMQXQf8lAKQ/edit?usp=sharing
 team: William Messenger, Chenchuhui Hu, Archer Heffern, Romir Jain
+image: http://pitosalas.github.io/brandeisprojects/images/homestudio.jpg
 ---
