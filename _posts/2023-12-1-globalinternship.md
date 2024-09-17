@@ -1,5 +1,5 @@
 ---  
-name: GlobalInternshipHub  
+name: Global Internship Hug
 blurb: GlobalInternshipHub is your gateway to a world of opportunities,
 designed exclusively for international students seeking internships in
 the U.S.  
