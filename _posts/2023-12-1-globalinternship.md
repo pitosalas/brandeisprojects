@@ -4,7 +4,7 @@ blurb: GlobalInternshipHub is your gateway to a world of opportunities,
 designed exclusively for international students seeking internships in
 the U.S.  
 course: COSI102A  
-semester: 2023 (Fall)  
+course: Cosi 102a
 gitHub: -  
 application:
 https://www.figma.com/proto/bcDgfZUwYCNHnfsAQpOea2/Prototype?type=design&node-id=1-5366&t=ChJEtYD6btlyqu8e-1&scaling=min-zoom&page-id=0%3A1

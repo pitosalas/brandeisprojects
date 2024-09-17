@@ -1,7 +1,7 @@
 ---
 name: LiveCodeBox
 blurb: LiveCodeBox is more than just a coding platform – it's a revolution in learning. We empower educators with intuitive tools and students with an engaging experience, unlocking their creative and problem-solving potential.
-course: CS102A
+course: Cosi 102a
 semester: 2023 (Fall)
 github: 
 application:

@@ -1,7 +1,7 @@
 ---
 name: The Delay Prediction Tool
 blurb: DPT is a machine learning algorithm and technological infrastructure that computes percent likelihoods of flights being delayed or canceled from history implications, macro and micro-events at individual locations, and weather forecasts. Designed the empower consumers with more data about their trip, in addition to aiding charter corporations, shipping firms, and airlines with scheduling and logistics.
-course: CS102A
+course: Cosi 102a
 semester: 2022 (Fall)
 github:
 application:
