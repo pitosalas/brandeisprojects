@@ -1,9 +1,6 @@
 ---  
 name: Global Internship Hug
-blurb: GlobalInternshipHub is your gateway to a world of opportunities,
-designed exclusively for international students seeking internships in
-the U.S.  
-course: COSI102A  
+blurb: GlobalInternshipHub is your gateway to a world of opportunities, designed exclusively for international students seeking internships in the U.S.  
 course: Cosi 102a
 gitHub: -  
 application:
